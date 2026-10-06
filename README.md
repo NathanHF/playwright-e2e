@@ -10,7 +10,7 @@
 
 ## Getting Started
 
-TESTE 
+TESTE
 
 In order to execute this project you must follow the steps below:
 
