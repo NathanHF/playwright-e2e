@@ -10,6 +10,8 @@
 
 ## Getting Started
 
+TESTE 
+
 In order to execute this project you must follow the steps below:
 
 1. Install [Node JS](https://nodejs.org/) (version >= 22.x)
